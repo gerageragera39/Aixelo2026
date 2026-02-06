@@ -131,8 +131,8 @@ To build the container:
 # Navigate to the container directory
 cd container/
 
-# Build the container (requires sudo privileges)
-sudo apptainer build cont.sif cont.def
+# Build the container
+apptainer build cont.sif cont.def
 ```
 
 ### Container Dependencies

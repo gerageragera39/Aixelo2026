@@ -1,0 +1,8 @@
+UFF.atoms		Default forcefield: UFF
+2.58, 10.22, 298, 12.8	Parameters for the helium atom probe s (Å) and e(K), temperature T (K), required for the Helium porosimetry, and cut-off distance (Å), required for the Helum porosimetry
+3.314			Nitrogen atom probe s (Å)
+500			Number of trials per atom for the surface area calculation
+0.2			Cubelet size
+20.0, 0.25		Largest anticipated pore diameter (Å), size of the bin for PSD (Å)
+21908391		Rand number generator seed
+0			Network-accessible nitrogen probe-centre visualization options: 0 – no network visualization files; 1 – xyz format; 2- grd format; 3 – both xyz and grd format

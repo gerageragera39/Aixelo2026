@@ -1,5 +1,4 @@
-# Submission script
-*.sh
+
 
 # Byte-compiled / optimized / DLL Files
 __pycache__/

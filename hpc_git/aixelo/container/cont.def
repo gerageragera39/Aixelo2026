@@ -1,5 +1,4 @@
 Bootstrap: docker
-# ОБНОВЛЯЕМ ДО 12.1, чтобы DGL и Torch работали на одной базе
 From: nvidia/cuda:12.1.1-cudnn8-runtime-ubuntu22.04
 
 %files
@@ -20,21 +19,16 @@ From: nvidia/cuda:12.1.1-cudnn8-runtime-ubuntu22.04
     ln -s /usr/bin/python3 /usr/bin/python
     python3 -m pip install --upgrade pip
 
-    # 1. Сначала Torch под CUDA 12.1
     python3 -m pip install torch==2.1.2 torchvision==0.16.2 torchaudio==2.1.2 --index-url https://download.pytorch.org/whl/cu121
 
-    # 2. Затем DGL под ту же CUDA 12.1 (версия 2.1.0 отлично встанет под твой reqs)
     python3 -m pip install dgl==2.1.0+cu121 -f https://data.dgl.ai/wheels/cu121/repo.html
 
     python3 -m pip install torchdata pydantic 
     
-    # 2. Ставим химический стек
     python3 -m pip install rdkit dgllife pyyaml h5py
 
-    # 3. Фиксируем numpy ДО установки остальных пакетов
     python3 -m pip install "numpy<2.0"
 
-    # 4. Устанавливаем твой обновленный requirements.txt
     python3 -m pip install --no-cache-dir -r /opt/requirements.txt
 
 %environment

@@ -376,7 +376,7 @@ def train_model(
         monitor="val/the_metric",
         mode="max",
         save_last=True,
-        filename="epoch{epoch:02d}-r2{val/regression/r2_epoch:.4f}",
+        filename="epoch{epoch:02d}-r2{val/the_metric:.4f}",
         auto_insert_metric_name=False
     )
     

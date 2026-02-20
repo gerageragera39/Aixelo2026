@@ -1,0 +1,43 @@
+# Core scientific computing
+numpy>=1.21.0,<2.0.0
+scipy>=1.7.0
+pandas>=1.3.0
+scikit-learn>=1.0.0
+
+# Data handling
+h5py
+pyyaml
+json5
+tqdm
+
+# Visualization
+matplotlib
+seaborn
+
+# Utilities
+sacred>=0.8.2
+ConfigArgParse
+# IMPORTANT: Pydantic 2.0 breaks many older libraries, pin to 1.x
+pydantic<2.0.0
+joblib
+requests
+
+# Development tools
+jupyter
+notebook
+
+# Logging
+tensorboard
+
+# File formats
+ase>=3.22.0
+pymatgen>=2022.0
+
+# Additional dependencies for MOFTransformer
+# IMPORTANT: moftransformer requires legacy Lightning API (version 1.x)
+pytorch-lightning==1.9.5
+lightning-utilities
+optuna
+
+# MOFTransformer
+moftransformer

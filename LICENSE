@@ -1,0 +1,404 @@
+# PROPRIETARY LICENSE AGREEMENT
+
+## Quantum Materials Optimization Framework (QMOF)
+
+**Copyright © 2026 Aixelo. All Rights Reserved.**
+
+---
+
+## NOTICE TO USERS
+
+This software is provided under a **PROPRIETARY LICENSE**. By downloading, installing, copying, or otherwise using this software, you agree to be bound by the terms of this license agreement. If you do not agree to the terms of this license, you must immediately cease all use of this software and destroy all copies in your possession.
+
+---
+
+## 1. DEFINITIONS
+
+For purposes of this Agreement:
+
+1.1 **"Software"** means the Quantum Materials Optimization Framework (QMOF), including all source code, object code, documentation, data files, container images, scripts, models, algorithms, and any derivative works thereof.
+
+1.2 **"Licensor"** means Aixelo, the owner and developer of the Software.
+
+1.3 **"Licensee"** or **"User"** means any individual or entity that has obtained a copy of this Software.
+
+1.4 **"Commercial Use"** means any use of the Software intended for or resulting in commercial advantage, monetary compensation, or business benefit, including but not limited to:
+   - Use in connection with any business or commercial enterprise
+   - Use in the development of commercial products or services
+   - Use by or on behalf of any for-profit organization
+   - Use that generates revenue or cost savings
+   - Use in consulting or service provision to third parties
+
+1.5 **"Non-Commercial Use"** means use solely for academic research, educational purposes, or personal learning, with no commercial intent or benefit.
+
+---
+
+## 2. OWNERSHIP AND PROPRIETARY RIGHTS
+
+2.1 **Title and Ownership.** The Software is licensed, not sold. Licensor retains all right, title, and interest in and to the Software, including all intellectual property rights therein.
+
+2.2 **Copyright.** The Software is protected by copyright laws and international treaty provisions. All rights are reserved.
+
+2.3 **Trade Secrets.** The Software contains trade secrets and proprietary information of Licensor. Licensee agrees to treat the Software as confidential information.
+
+2.4 **No Implied Licenses.** No licenses or rights are granted to Licensee by implication, estoppel, or otherwise except as expressly set forth in this Agreement.
+
+2.5 **Derivative Works.** All modifications, enhancements, derivative works, and improvements to the Software are the exclusive property of Licensor and subject to this Agreement.
+
+---
+
+## 3. LICENSE GRANT
+
+### 3.1 Limited Non-Commercial License
+
+Subject to the terms and conditions of this Agreement, Licensor grants Licensee a limited, non-exclusive, non-transferable, non-sublicensable, revocable license to:
+
+(a) **Use** the Software solely for Non-Commercial purposes;
+
+(b) **Reproduce** the Software for backup and archival purposes only;
+
+(c) **Modify** the Software solely for Licensee's internal Non-Commercial use;
+
+(d) **Compile** source code into object code for Licensee's Non-Commercial use only.
+
+### 3.2 Academic Research Exception
+
+Academic researchers at accredited educational and research institutions may use the Software for non-commercial research purposes, provided that:
+- The research is not funded by or on behalf of any commercial entity
+- The results are published in peer-reviewed academic venues
+- Proper attribution is given to Licensor and the Software
+
+### 3.3 Evaluation License
+
+Prospective commercial users may evaluate the Software for a period of thirty (30) days from first use to determine suitability for their needs. Commercial use requires a separate commercial license agreement.
+
+---
+
+## 4. RESTRICTIONS AND PROHIBITIONS
+
+### 4.1 Commercial Use Prohibition
+
+**STRICTLY PROHIBITED:** Licensee shall NOT use, permit, or authorize the use of the Software or any portion thereof for any Commercial Use without obtaining a valid commercial license from Licensor.
+
+### 4.2 Specific Prohibitions
+
+Licensee shall NOT:
+
+(a) **Sell, Rent, or Lease.** Sell, rent, lease, sublicense, assign, distribute, or otherwise transfer the Software or any rights therein to any third party.
+
+(b) **Commercial Hosting.** Use the Software to provide services to third parties, including software-as-a-service (SaaS), managed services, consulting services, or bureau services.
+
+(c) **Reverse Engineering.** Reverse engineer, decompile, disassemble, or otherwise attempt to derive source code from object code portions of the Software, except and only to the extent that applicable law expressly permits notwithstanding this restriction.
+
+(d) **Modification Restrictions.** Modify, adapt, translate, or create derivative works based upon the Software, except as expressly permitted for Non-Commercial internal use.
+
+(e) **Removal of Notices.** Remove, alter, or obscure any copyright notices, trademarks, legends, or proprietary notices contained in the Software.
+
+(f) **Benchmarking.** Publish benchmarks, performance comparisons, or evaluations of the Software without prior written consent from Licensor.
+
+(g) **Circumvention.** Circumvent, disable, or otherwise interfere with security-related features or features that prevent or restrict the use of the Software in violation of this Agreement.
+
+(h) **Competitive Analysis.** Use the Software to develop competing products or services or to analyze the Software for competitive purposes.
+
+(i) **Training AI/ML Models.** Use the Software, its outputs, or any data derived therefrom to train, develop, or improve artificial intelligence or machine learning models that compete with or are similar to the Software.
+
+(j) **Redistribution.** Distribute, publish, or make available the Software or any modifications thereto through any public repository, package manager, or distribution channel.
+
+---
+
+## 5. COMMERCIAL LICENSING
+
+### 5.1 Commercial License Required
+
+Any Commercial Use of the Software requires a separate written commercial license agreement with Licensor. Commercial license terms, including fees, restrictions, and permitted uses, will be specified in the commercial license agreement.
+
+### 5.2 Contact for Commercial Licensing
+
+For information regarding commercial licensing, please contact:
+
+```
+Aixelo Licensing Department
+Email: legal@aixelo.com
+Website: https://www.aixelo.com/licensing
+```
+
+### 5.3 Enterprise License Options
+
+Licensor offers various commercial license options including:
+- **Single Developer License** - For individual developers
+- **Team License** - For development teams (up to specified number of users)
+- **Enterprise License** - For organization-wide deployment
+- **OEM License** - For integration into commercial products
+- **SaaS/Service Provider License** - For cloud-based service offerings
+
+---
+
+## 6. CONFIDENTIALITY
+
+6.1 **Confidential Information.** Licensee acknowledges that the Software contains proprietary and confidential information of Licensor.
+
+6.2 **Obligation.** Licensee agrees to:
+   - Maintain the confidentiality of the Software
+   - Use the same degree of care to protect the Software as it uses to protect its own confidential information (but no less than reasonable care)
+   - Not disclose the Software to any third party without prior written consent
+
+6.3 **Permitted Disclosure.** Licensee may disclose the Software to its employees, contractors, or agents who have a need to know and who are bound by confidentiality obligations no less restrictive than this Agreement.
+
+6.4 **Duration.** The obligations under this Section shall survive termination of this Agreement for a period of five (5) years.
+
+---
+
+## 7. ATTRIBUTION AND CITATION
+
+### 7.1 Academic Attribution
+
+For Non-Commercial academic and research use, Licensee agrees to cite the Software and underlying models in any publications, presentations, or public disclosures that result from use of the Software:
+
+```bibtex
+@software{qmof2026,
+  author = {Aixelo Team},
+  title = {Quantum Materials Optimization Framework (QMOF)},
+  year = {2026},
+  publisher = {Aixelo},
+  url = {https://github.com/your-org/Aixelo2026}
+}
+```
+
+### 7.2 Acknowledgment
+
+Licensee shall include appropriate acknowledgment of Licensor and the Software in any documentation or materials related to Licensee's use of the Software.
+
+---
+
+## 8. SUPPORT AND MAINTENANCE
+
+8.1 **No Obligation.** Licensor has no obligation under this Agreement to provide support, maintenance, updates, enhancements, or modifications to the Software.
+
+8.2 **Best Effort Support.** Licensor may, at its sole discretion, provide limited support through GitHub Issues, email, or other channels for Non-Commercial users.
+
+8.3 **Commercial Support.** Support and maintenance services are available to commercial license holders as specified in their commercial license agreements.
+
+---
+
+## 9. DISCLAIMER OF WARRANTIES
+
+**READ THIS SECTION CAREFULLY. IT CONSTITUTES A WAIVER OF CERTAIN LEGAL RIGHTS.**
+
+9.1 **"AS IS" Basis.** THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO:
+   - WARRANTIES OF MERCHANTABILITY
+   - WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE
+   - WARRANTIES OF NON-INFRINGEMENT
+   - WARRANTIES OF TITLE
+   - WARRANTIES ARISING FROM COURSE OF DEALING OR USAGE OF TRADE
+
+9.2 **No Guarantees.** LICENSOR DOES NOT WARRANT THAT:
+   - THE SOFTWARE WILL MEET LICENSEE'S REQUIREMENTS
+   - THE SOFTWARE WILL BE UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE
+   - THE RESULTS OBTAINED FROM USE OF THE SOFTWARE WILL BE ACCURATE OR RELIABLE
+   - DEFECTS IN THE SOFTWARE WILL BE CORRECTED
+
+9.3 **Scientific Use Disclaimer.** THE SOFTWARE IS INTENDED FOR RESEARCH AND DEVELOPMENT PURPOSES. LICENSOR MAKES NO REPRESENTATIONS OR WARRANTIES REGARDING THE ACCURACY, COMPLETENESS, OR RELIABILITY OF PREDICTIONS, CALCULATIONS, OR RESULTS GENERATED BY THE SOFTWARE. LICENSEE IS SOLELY RESPONSIBLE FOR VERIFYING ANY RESULTS OBTAINED THROUGH USE OF THE SOFTWARE.
+
+9.4 **Jurisdictional Variations.** SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF CERTAIN WARRANTIES OR LIMITATIONS ON IMPLIED WARRANTIES. TO THE EXTENT SUCH WARRANTIES CANNOT BE EXCLUDED UNDER APPLICABLE LAW, THE EXCLUSIONS AND LIMITATIONS IN THIS SECTION SHALL APPLY TO THE FULLEST EXTENT PERMITTED BY LAW.
+
+---
+
+## 10. LIMITATION OF LIABILITY
+
+**READ THIS SECTION CAREFULLY. IT LIMITS CERTAIN LEGAL RIGHTS.**
+
+10.1 **Limitation of Damages.** TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL LICENSOR, ITS AFFILIATES, OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, OR LICENSORS BE LIABLE FOR:
+   - ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES
+   - DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA, OR OTHER INTANGIBLE LOSSES
+   - DAMAGES ARISING FROM BUSINESS INTERRUPTION
+   - DAMAGES ARISING FROM COMPUTER FAILURE OR MALFUNCTION
+   - ANY DAMAGES RESULTING FROM USE OF OR INABILITY TO USE THE SOFTWARE
+
+10.2 **Cap on Liability.** NOTWITHSTANDING ANYTHING TO THE CONTRARY CONTAINED HEREIN, LICENSOR'S AGGREGATE LIABILITY TO LICENSEE FOR ANY CAUSE OF ACTION WHATSOEVER SHALL NOT EXCEED THE AMOUNT OF ONE HUNDRED U.S. DOLLARS (USD $100.00).
+
+10.3 **Basis of Bargain.** THE LIMITATIONS AND EXCLUSIONS IN THIS SECTION CONSTITUTE AN ESSENTIAL PART OF THE BASIS OF THE BARGAIN BETWEEN LICENSOR AND LICENSEE AND APPLY TO ALL CLAIMS ARISING OUT OF OR RELATING TO THIS AGREEMENT OR THE SOFTWARE, WHETHER IN CONTRACT, TORT, STRICT LIABILITY, OR OTHERWISE, EVEN IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+---
+
+## 11. INDEMNIFICATION
+
+11.1 **Licensee Indemnification.** Licensee agrees to indemnify, defend, and hold harmless Licensor and its affiliates, officers, directors, employees, and agents from and against any and all claims, liabilities, damages, losses, costs, expenses, and fees (including reasonable attorneys' fees) arising out of or relating to:
+   - Licensee's use of the Software in violation of this Agreement
+   - Licensee's Commercial Use of the Software without a commercial license
+   - Licensee's negligence or willful misconduct
+   - Any third-party claims resulting from Licensee's use of the Software
+
+---
+
+## 12. TERM AND TERMINATION
+
+### 12.1 Term
+
+This Agreement is effective from the date Licensee first downloads, installs, or uses the Software and continues until terminated.
+
+### 12.2 Termination by Licensee
+
+Licensee may terminate this Agreement at any time by ceasing all use of the Software and destroying all copies in Licensee's possession.
+
+### 12.3 Termination by Licensor
+
+Licensor may terminate this Agreement immediately upon written notice to Licensee if Licensee breaches any term of this Agreement.
+
+### 12.4 Automatic Termination
+
+This Agreement will terminate automatically without notice from Licensor if Licensee fails to comply with any term or condition of this Agreement.
+
+### 12.5 Effect of Termination
+
+Upon termination:
+   - All licenses granted to Licensee shall immediately terminate
+   - Licensee must cease all use of the Software
+   - Licensee must destroy or return all copies of the Software to Licensor
+   - Licensee must provide written certification of compliance upon request
+   - Sections 2, 4, 6, 7, 9, 10, 11, 12, 13, and 14 shall survive termination
+
+---
+
+## 13. AUDIT AND COMPLIANCE
+
+### 13.1 Audit Rights
+
+Licensor reserves the right, upon reasonable notice and during normal business hours, to audit Licensee's use of the Software to ensure compliance with this Agreement.
+
+### 13.2 Compliance Verification
+
+Licensee agrees to cooperate with Licensor's compliance verification efforts and provide accurate information regarding Licensee's use of the Software.
+
+### 13.3 Costs of Audit
+
+If an audit reveals that Licensee has used the Software in violation of this Agreement, Licensee shall bear the reasonable costs of the audit and any enforcement actions.
+
+---
+
+## 14. GENERAL PROVISIONS
+
+### 14.1 Governing Law
+
+This Agreement shall be governed by and construed in accordance with the laws of the jurisdiction in which Licensor is headquartered, without regard to conflict of law principles.
+
+### 14.2 Jurisdiction and Venue
+
+Any legal action or proceeding arising under this Agreement shall be brought exclusively in the federal or state courts located in Licensor's jurisdiction, and the parties consent to the personal jurisdiction and venue of such courts.
+
+### 14.3 Severability
+
+If any provision of this Agreement is held to be invalid, illegal, or unenforceable, the remaining provisions shall continue in full force and effect, and the invalid provision shall be modified to achieve its intended purpose to the maximum extent permitted by law.
+
+### 14.4 Waiver
+
+No waiver of any term or condition of this Agreement shall be effective unless in writing and signed by the party against whom enforcement is sought. No waiver of any breach shall constitute a waiver of any other breach.
+
+### 14.5 Amendment
+
+Licensor reserves the right to modify this Agreement at any time. Modified versions shall be effective immediately upon posting. Licensee's continued use of the Software following modifications constitutes acceptance of the modified terms.
+
+### 14.6 Assignment
+
+Licensee may not assign or transfer this Agreement or any rights or obligations hereunder without the prior written consent of Licensor. Any attempted assignment in violation of this provision shall be void.
+
+### 14.7 Entire Agreement
+
+This Agreement constitutes the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior or contemporaneous agreements, understandings, or representations, whether oral or written.
+
+### 14.8 No Partnership or Agency
+
+Nothing in this Agreement shall be construed to create a partnership, joint venture, agency, or employment relationship between the parties.
+
+### 14.9 Export Control
+
+Licensee acknowledges that the Software may be subject to export control laws and regulations. Licensee agrees to comply with all applicable export and re-export restrictions.
+
+### 14.10 U.S. Government End Users
+
+The Software is "Commercial Computer Software" as defined in FAR 2.101 and DFARS 252.227-7014. Use by the U.S. Government is subject to the restrictions in this Agreement.
+
+### 14.11 Force Majeure
+
+Neither party shall be liable for any failure or delay in performance under this Agreement due to causes beyond its reasonable control, including acts of God, natural disasters, war, terrorism, civil unrest, or internet or telecommunications failures.
+
+---
+
+## 15. THIRD-PARTY COMPONENTS
+
+### 15.1 Open Source Software
+
+The Software incorporates certain third-party open source software components. Such components are subject to their respective license terms. A list of third-party components and their licenses is provided in the documentation or at:
+
+```
+https://github.com/your-org/Aixelo2026/blob/main/THIRD_PARTY_NOTICES
+```
+
+### 15.2 No Contamination
+
+The inclusion of third-party open source components shall not be construed to require that any portion of the Software be:
+   - Disclosed or distributed in source code form
+   - Licensed under terms inconsistent with this Agreement
+   - Redistributable by Licensee
+
+---
+
+## 16. CONTACT INFORMATION
+
+For questions regarding this Agreement, commercial licensing, or support:
+
+```
+Aixelo Legal Department
+Email: legal@aixelo.com
+Website: https://www.aixelo.com
+Address: [Your Business Address]
+```
+
+For technical support:
+```
+Email: support@aixelo.com
+GitHub Issues: https://github.com/your-org/Aixelo2026/issues
+```
+
+For security concerns:
+```
+Email: security@aixelo.com
+```
+
+---
+
+## 17. ACCEPTANCE
+
+BY DOWNLOADING, INSTALLING, COPYING, OR OTHERWISE USING THIS SOFTWARE, LICENSEE ACKNOWLEDGES THAT LICENSEE HAS READ, UNDERSTOOD, AND AGREES TO BE BOUND BY ALL TERMS AND CONDITIONS OF THIS AGREEMENT.
+
+IF LICENSEE DOES NOT AGREE TO THE TERMS OF THIS AGREEMENT, LICENSEE MUST IMMEDIATELY:
+1. CEASE ALL USE OF THE SOFTWARE
+2. DELETE ALL COPIES OF THE SOFTWARE FROM ALL DEVICES AND STORAGE MEDIA
+3. PROVIDE WRITTEN CERTIFICATION OF COMPLIANCE TO LICENSOR UPON REQUEST
+
+---
+
+**Last Updated:** February 20, 2026
+
+**Version:** 1.0.0
+
+**Effective Date:** February 20, 2026
+
+---
+
+## SUMMARY OF KEY RESTRICTIONS
+
+| Action | Permitted? | Notes |
+|--------|------------|-------|
+| Personal/academic research | ✅ Yes | Non-commercial use only |
+| Internal evaluation (30 days) | ✅ Yes | For assessing suitability |
+| Modification for internal use | ✅ Yes | Non-commercial only |
+| Commercial use | ❌ No | Requires commercial license |
+| Redistribution | ❌ No | Strictly prohibited |
+| SaaS/Service provision | ❌ No | Strictly prohibited |
+| Sublimaging | ❌ No | Strictly prohibited |
+| Selling derivative works | ❌ No | Strictly prohibited |
+| Training competing AI models | ❌ No | Strictly prohibited |
+
+---
+
+*This license is intended to protect the commercial interests of the Software owner while allowing legitimate non-commercial research and educational use. For commercial licensing opportunities, please contact legal@aixelo.com.*

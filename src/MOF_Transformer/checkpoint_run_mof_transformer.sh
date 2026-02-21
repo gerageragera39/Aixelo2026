@@ -19,6 +19,11 @@ DATASET_ARCHIVE="$HPCVAULT/datasets/qmof_full_processed_outputs.pbe.bandgap.tar"
 RESULTS_DIR="$PROJECT_ROOT/my_results/job_${SLURM_JOB_ID}"
 CONTAINER="$PROJECT_ROOT/container/moftransformer_container.sif"
 
+
+CKPT_JOB_ID=3355686
+CKPT_PATH="/workspace/my_results/job_${CKPT_JOB_ID}/training/version_0/checkpoints/epoch93-r20.0000.ckpt"
+
+
 TMP_DATA="$TMPDIR/qmof_data_transformer"
 
 mkdir -p "$TMP_DATA" "$RESULTS_DIR" "logs"
@@ -36,6 +41,7 @@ echo "Data root: $DATA_ROOT"
 
 export OMP_NUM_THREADS=$SLURM_CPUS_PER_TASK
 
+
 srun apptainer exec --nv \
     -B "$PROJECT_ROOT:/workspace" \
     -B "$DATA_ROOT:/dataset:rw" \
@@ -48,4 +54,6 @@ srun apptainer exec --nv \
         --per-gpu-batchsize 128 \
         --batch-size 128 \
         --max-epochs 100 \
-        --target-column outputs.pbe.bandgap
+        --target-column outputs.pbe.bandgap \
+        --load-path "$CKPT_PATH" \
+        --learning-rate 1e-5
